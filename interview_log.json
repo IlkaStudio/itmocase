@@ -1,0 +1,27 @@
+{
+"verdict": {
+"grade": "Junior",
+"hiring_recommendation": "No Hire",
+"confidence": 40
+},
+"technical_review": {
+"confirmed_skills": [
+"SQL",
+"Django"
+],
+"knowledge_gaps": [
+"Python: изучи основы",
+"Django: изучи основы"
+]
+},
+"soft_skills": {
+"clarity": "high",
+"honesty": "low",
+"engagement": "high"
+},
+"roadmap": [
+"Python 3.12+",
+"SQL JOINs",
+"Django ORM docs"
+]
+}

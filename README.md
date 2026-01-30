@@ -25,14 +25,3 @@ Interviewer: задает адаптивные вопросы
 Ход 3: "Python 4.0 уберут циклы..."
 📝 [Observer]:Галлюцинация! | [Interviewer]:Исправить (easy)
 🤖 "Python 4.0 не существует. Что такое list?"
-
- 📊 JSON лог (точная структура ТЗ)
-```json
-{
-  "participant_name": "Алекс",
-  "turns": [{"internal_thoughts": "[Observer]:...|[Interviewer]:..."}],
-  "final_feedback": {"verdict": {...}, "technical_review": {...}}
-}
-📁 Запуск
-bash
-python itmo_case.py
